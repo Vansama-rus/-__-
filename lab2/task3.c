@@ -1,21 +1,3 @@
-/* #include <stdio.h>
-#include <math.h>
-int main(){
-    double x, y;
-    double a, b, c;
-    double high = a*x+b*y+c;//положение точки отночительно прямой
-    printf("введите координаты x и y");
-    scanf("%lf %lf", &x, &y);
-    printf("введите коэффициенты a b c");
-    scanf("%lf %lf %lf", &a, &b, &c);
-if (high > 0){
-
-
-    }
-
-}
-    return 0;
-} */
 #include <stdio.h>
 int main(){
     double x, y;
